@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nguyen Tien Manh</h1>
-<h3 align="center">A passionate mobile developer from Viet Nam</h3>
+<h2>Hi 👋, I'm Nguyen Tien Manh</h2>
+<h3>A passionate mobile developer from Viet Nam</h3>
 - 🔭 I’m currently working on something cool</br>
 - 🌱 I’m currently learning Data Structures and Algorithms</br>
 - ⚡ I’m addicted to learning and growing every day
